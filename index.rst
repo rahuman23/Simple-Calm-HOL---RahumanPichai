@@ -75,3 +75,8 @@ Add a connection:
 - **Type** - Policy Secure (UAC) or Connection Server
 - **Name** - HPOC VPN
 - **Server URL** - lab-vpn.nutanix.com
+
+Rahuman Edit here. -->
+..............................
+To access the lab, you need to install global protect from here.
+As soon as you are done with this. 
